@@ -1,4 +1,4 @@
-package uas;
+package Data_Furniture;
 
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
@@ -7,7 +7,6 @@ package uas;
 import java.sql.*;
 import javax.swing.*;
 import javax.swing.table.DefaultTableModel;
-import uas.FormatHarga;
 /**
  *
  * @author Chaandradwi
